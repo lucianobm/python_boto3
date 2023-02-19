@@ -1,0 +1,42 @@
+[
+    {
+        "game": "Starcraft",
+        "developer": "Blizzard"
+    },
+    {
+        "game": "Diablo",
+        "developer": "Blizzard"
+    },
+    {
+        "game": "Overwatch",
+        "developer": "Blizzard"
+    },
+    {
+        "game": "World of Warcraft",
+        "developer": "Blizzard"
+    },
+    {
+        "game": "HearthStone",
+        "developer": "Blizzard"
+    },
+    {
+        "game": "Fifa",
+        "developer": "EASports"
+    },
+    {
+        "game": "DeadSpace",
+        "developer": "EASports"
+    },
+    {
+        "game": "Wild Hearts",
+        "developer": "EASports"
+    },
+    {
+        "game": "F1",
+        "developer": "EASports"
+    },
+    {
+        "game": "Battlefield",
+        "developer": "EASports"
+    }
+]
