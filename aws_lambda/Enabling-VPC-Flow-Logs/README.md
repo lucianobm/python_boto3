@@ -4,7 +4,7 @@
 
 By default, VPC Flow Logs are not enabled. However, in our scenario, let's say you have a policy that requires they be enabled for any new VPC that gets created in your account.
 
-In this lesson, we will automate the creation of VPC Flow Logs whenever a new VPC is created.
+We will automate the creation of VPC Flow Logs whenever a new VPC is created.
 
 - `lambda_function.py` creates VPC Flow Logs for the VPC ID in the event
 - `event-pattern.json` is the CloudWatch Rule event pattern for monitoring the `CreateVpc` API call.
