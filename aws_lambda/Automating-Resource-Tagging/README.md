@@ -79,6 +79,6 @@ Try working with EC2 instances owned by other users or untagged, and observe acc
 
 ## What next?
 
-Now that you know you can tag resources with a Lambda function in response to events, you can apply the same logic to other resources such as RDS databases or S3 buckets. With resource groups, each user can focus on just their resources, and the IAM policy provided in this lesson assures that no unauthorized action is possible on someone else's instance.
+Now that you know you can tag resources with a Lambda function in response to events, you can apply the same logic to other resources such as RDS databases or S3 buckets. With resource groups, each user can focus on just their resources, and the IAM policy provided assures that no unauthorized action is possible on someone else's instance.
 
 Additionally, tags are useful in custom billing reports to project costs and determine how much money each individual owner is spending. You can activate the `Owner` tag in the billing console from the Cost Allocation Tags of your billing console to include it in your detailed billing reports. For more information, see [Applying Tags](https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/billing-what-is.html).
